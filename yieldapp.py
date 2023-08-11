@@ -35,7 +35,6 @@ html_temp = """
     </div>
     <style>
     [data-testid="stAppViewContainer"]{
-        background-image: url("https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
         background-size: cover;
         opacity: 0.8;
         }
